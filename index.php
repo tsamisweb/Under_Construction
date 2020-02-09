@@ -6,8 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"> 
 		<meta name="Author" content="WebThemez"> 
 		<title>Go Creative Web development Company</title>
-		<meta name="description" content="Examples for creative website header animations using Canvas and JavaScript" />
-		<meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
+		<meta name="description" content="Web sites development graphic design seo wordpress development" />
+		<meta name="keywords" content="web design, site, design, development, wordpress" />
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico">
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" /> 
@@ -31,7 +31,7 @@
 </div>
 <div class="container intro-site">
 	<div class="row">
-		<div class="col-12 col-sm-12 col-md-12"><h1><a href="#" class="logo">GoCreative</a></h1></div>
+		<div class="col-12 col-sm-12 col-md-12"><h1><a href="#" class="logo"><img src="img/gocreative_logo.png" alt=""></a></h1></div>
 	</div>
 	<div class="row">
 		<div class="col-12 col-sm-12 col-md-12"><span>Web Design // </span> <span>Web development // </span> <span>Social Media // </span> <span>Photography</span></div>
@@ -39,22 +39,24 @@
 </div>
 
 <div class="container content">
-	<h2 class="intro">Our Team have been working on something Amazing <br/>We will be back soon</h2>
-		<div id="subscribe">  
+	<h2 class="intro">Our team have been working on something amazing <br/>We will be back soon</h2>
+	<h2><a href="mailto:info@gocreative.gr?Subject=Hello%20again" target="_top">info@gocreative.gr</a></h2>
+	
+		<!--<div id="subscribe">  
 		<form method="POST" action="subscribe.php"> 
 			<p class="subscribe-input"><input type="text" name="Email" size="20" value="" placeholder="Subscribe your e-mail Id"><input type="submit" value="Submit" name="Submit"></p> 
-		</form>
+		</form>-->
 
-		<div id="socialIcons">
+		<!--<div id="socialIcons">
 			<ul> 
 				<li><a href="" title="Twitter" class="twitterIcon"></a></li>
 				<li><a href="" title="facebook" class="facebookIcon"></a></li>
 				<li><a href="" title="linkedIn" class="linkedInIcon"></a></li>
 				<li><a href="" title="Pintrest" class="pintrestIcon"></a></li>
 			</ul>
-		</div>
+		</div>-->
 </div> 
-	<span class="tempBy">&copy; 2020 All right reserved. <br/><a href="#" target="_blank">Crafted with love </a>{ <i class="fa fa-heart"> </i> } by gocreative.gr</span>
+	<span class="">&copy; 2020 All right reserved <a href="#" target="_blank">crafted with love </a>{ <i class="fa fa-heart"> </i> } by gocreative.gr</span>
 </div>
 </div> 
  
