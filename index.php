@@ -39,24 +39,24 @@
 </div>
 
 <div class="container content">
-	<h2 class="intro">Our team have been working on something amazing <br/>We will be back soon</h2>
-	<h2><a href="mailto:info@gocreative.gr?Subject=Hello%20again" target="_top">info@gocreative.gr</a></h2>
+	<h2 class="intro"><p>Our team have been working on something amazing</p><p>We will be back soon</p></h2>
+	<h2><a class="email" href="mailto:info@gocreative.gr?Subject=Hello%20again" target="_top"> <i class="fa fa-envelope"></i>  info@gocreative.gr</a></h2>
 	
 		<!--<div id="subscribe">  
 		<form method="POST" action="subscribe.php"> 
 			<p class="subscribe-input"><input type="text" name="Email" size="20" value="" placeholder="Subscribe your e-mail Id"><input type="submit" value="Submit" name="Submit"></p> 
 		</form>-->
-
-		<!--<div id="socialIcons">
+<!-- 
+		<div id="socialIcons">
 			<ul> 
 				<li><a href="" title="Twitter" class="twitterIcon"></a></li>
 				<li><a href="" title="facebook" class="facebookIcon"></a></li>
 				<li><a href="" title="linkedIn" class="linkedInIcon"></a></li>
 				<li><a href="" title="Pintrest" class="pintrestIcon"></a></li>
 			</ul>
-		</div>-->
+		</div> -->
 </div> 
-	<span class="">&copy; 2020 All right reserved <a href="#" target="_blank">crafted with love </a>{ <i class="fa fa-heart"> </i> } by gocreative.gr</span>
+	<span class="footer">&copy; 2020 All right reserved <a href="#" target="_blank">crafted with love </a>{ <i class="fa fa-heart"> </i> } by gocreative.gr</span>
 </div>
 </div> 
  
